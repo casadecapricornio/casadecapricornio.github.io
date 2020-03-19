@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Casa de Capricórnio</title>
+    <link>http://casadecapricornio.com/</link>
+    <description>Recent content on Casa de Capricórnio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <copyright>Casa de Capricórnio © 2020</copyright>
+    
+	<atom:link href="http://casadecapricornio.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contactos</title>
+      <link>http://casadecapricornio.com/contactos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://casadecapricornio.com/contactos/</guid>
+      <description>Para informações, marcação de consultas presenciais, ou por telefone.
+Ligue-nos:  +351 219 385 446 +351 912 113 342  Visite-nos:  Largo Major Rosa Bastos 14 A 2620-118 Póvoa de Santo Adrião, Odivelas, Lisboa obter direções  Escreva-nos:  casadecapricornio@gmail.com  Siga-nos:  facebook.com/casadecapricornio  </description>
+    </item>
+    
+    <item>
+      <title>COVID-19</title>
+      <link>http://casadecapricornio.com/covid-19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://casadecapricornio.com/covid-19/</guid>
+      <description>Comunicado,
+Aos nossos clientes, amigos e familiares Face aos tempos de incerteza que vivemos, no que respeita ao COVID-19, decidimos que, apesar do nosso estabelecimento se manter em funcionamento presencial, iremos daqui para a frente, facilitar também consultas por telefone para os clientes que assim optem e se sintam mais confortáveis por essa via.
+Gostaríamos também de partilhar que, Não acreditamos na propagação de informação baseada em palpites e ou opiniões que não sejam baseadas em evidências observáveis e replicáveis.</description>
+    </item>
+    
+    <item>
+      <title>Sobre Nós</title>
+      <link>http://casadecapricornio.com/sobre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://casadecapricornio.com/sobre/</guid>
+      <description>Fundada em 2007, a Casa de Capricórnio é um espaço Esotérico e de Saúde Holística com diversas terapias. É um espaço onde se pode encontrar a si próprio e melhorar a sua vida.
+ Serviços Prestamos um leque de serviços, dos quais se destacam:
+ Consultas de Tarot  Com Maria da Conceição, taróloga residente e fundadora da Casa de Capricórnio.   Acupuntura Emocional (EFT) Diagnóstico Quântico Terapia de Reiki  E alguns alternativos:</description>
+    </item>
+    
+    <item>
+      <title>Tarot</title>
+      <link>http://casadecapricornio.com/tarot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://casadecapricornio.com/tarot/</guid>
+      <description>Saiba o que esperar de uma Leitura de Tarot com a capricorniana Maria da Conceição, taróloga residente e fundadora da Casa de Capricórnio.
+O que pode fazer por mim? O Tarôt descreve suas alegrias, problemas, conflitos e questões. Identifica padrões de vida, indica áreas onde a mudança manifestaria uma melhor direção, e dirige-nos rumo ao sucesso.
+ unsplash-logo    foto por Soulful Stock   O Tarôt não serve unicamente para lhe dizer o futuro, ele ajuda a criar o seu futuro.</description>
+    </item>
+    
+  </channel>
+</rss>
