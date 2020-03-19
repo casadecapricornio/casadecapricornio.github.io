@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://casadecapricornio.com/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>http://casadecapricornio.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>http://casadecapricornio.com/contactos/</loc>
+    <loc>/contactos/</loc>
   </url>
   
   <url>
-    <loc>http://casadecapricornio.com/covid-19/</loc>
+    <loc>/covid-19/</loc>
   </url>
   
   <url>
-    <loc>http://casadecapricornio.com/sobre/</loc>
+    <loc>/sobre/</loc>
   </url>
   
   <url>
-    <loc>http://casadecapricornio.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
   <url>
-    <loc>http://casadecapricornio.com/tarot/</loc>
+    <loc>/tarot/</loc>
   </url>
   
 </urlset>
