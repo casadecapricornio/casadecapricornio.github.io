@@ -67,3 +67,7 @@
     border-right: white 0px !important;
     margin-right: 0px !important;
   }
+
+  .post-content {
+    text-align: justify!important;
+  }
