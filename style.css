@@ -71,3 +71,8 @@
   .post-content {
     text-align: justify!important;
   }
+
+  .post-meta {
+    margin-top: 50px;
+    color: #999;
+  }
