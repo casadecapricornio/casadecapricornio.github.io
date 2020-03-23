@@ -76,3 +76,18 @@
     margin-top: 50px;
     color: #999;
   }
+
+  .extended-footer {
+    color: #999;
+  }
+
+  .extended-footer p {
+    font-size: 0.8rem;
+    padding-bottom: 40px;
+  }
+
+  .footer {
+    padding: 40px 20px;
+    padding-top: 40px;
+    padding-bottom: 20px !important;
+  }
