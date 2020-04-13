@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <copyright>Casa de Capricórnio</copyright>
-    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Condicionamento</title>
+      <link>/blog/condicionamento/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/condicionamento/</guid>
+      <description>A menos que abandone a sua personalidade, não será capaz de encontrar a sua individualidade. A individualidade é dada pela existência; a personalidade é imposta pela sociedade.
+Personalidade é uma conveniência social. A sociedade tolera a individualidade porque a individualidade não acompanha o rebanho, como uma ovelha. A individualidade tem a natureza de um leão: O leão move-se sozinho.
+ unsplash-logo    foto por Keyur Nandaniya  As ovelhas estão sempre em rebanho, na esperança de que estar em grupo será aconchegante.</description>
+    </item>
     
     <item>
       <title>Sem intenção</title>
